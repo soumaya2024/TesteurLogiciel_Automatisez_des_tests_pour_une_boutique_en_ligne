@@ -1,0 +1,16 @@
+{
+  "api_get_products_context": "GET /products",
+  "api_get_products_it": "gets a list of products",
+  "api_security_describe": "Sécurité API",
+  "api_security_it": "devrait renvoyer 401 si non authentifié",
+  "api_product_detail_describe": "API - Fiche produit spécifique",
+  "api_product_detail_it": "GET /products/:id doit retourner la fiche du produit",
+  "api_login_describe": "Test de connexion API",
+  "api_login_it": "devrait se connecter avec des identifiants valides",
+  "api_login_username": "test2@test.fr",
+  "api_login_password": "testtest",
+  "api_add_review_describe": "API - Ajouter un avis produit",
+  "api_add_review_it": "devrait se connecter, récupérer un produit et ajouter un avis",
+  "api_review_title": "Super produit !",
+  "api_review_comment": "Excellent produit, très satisfait !"
+}
